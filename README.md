@@ -1,8 +1,8 @@
-#Image output 
+# Image output 
 
 ![Screenshot 2024-12-20 105613](https://github.com/user-attachments/assets/4ca161dd-9a8e-4f3b-aa81-20aae047a555)
 
-#Return steps 
+# Return steps 
 ```
 Epoch [1/5], Step [2000/12500], Loss: 2.2940
 Epoch [1/5], Step [4000/12500], Loss: 2.2762
@@ -36,7 +36,7 @@ Epoch [5/5], Step [10000/12500], Loss: 1.1707
 Epoch [5/5], Step [12000/12500], Loss: 0.9208
 ```
 
-#Training result
+# Training result
 ```
 Accuracy of the network: 50.43 %
 Accuracy of plane: 51.4 %
